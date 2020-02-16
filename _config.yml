@@ -15,7 +15,6 @@ permalink: "/:year/:title"
 _options:
   content:
     styles: "/assets/editor.css"
-page_blocks: []
 _array_structures:
   page_blocks:
   - label: Banner A
