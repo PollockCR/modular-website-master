@@ -1,5 +1,7 @@
 ---
 title: Archive of Food Posts by Blog Name
-category: wine
+categories:
+- wine
 layout: archive
 ---
+

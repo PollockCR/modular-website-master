@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Second Blog Post
-meta-description:
-meta-keywords:
-image_path: /images/adventure.jpg
+date: 2019-01-02 00:00:00 Z
 categories:
-  - food
-  - wine
+- food
+- wine
+layout: post
+meta-description: 
+meta-keywords: 
+image_path: "/images/adventure.jpg"
 author: Tina May
 ---
 

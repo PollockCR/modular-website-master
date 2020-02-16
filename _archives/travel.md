@@ -1,5 +1,7 @@
 ---
 title: Archive of Travel Posts by Blog Name
-category: travel
+categories:
+- travel
 layout: archive
 ---
+

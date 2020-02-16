@@ -1,12 +1,13 @@
 ---
-layout: post
 title: First Blog Post
-meta-description:
-meta-keywords:
-image_path: /images/adventure.jpg
+date: 2019-01-01 00:00:00 Z
 categories:
-  - travel
-  - wine
+- travel
+- wine
+layout: post
+meta-description: 
+meta-keywords: 
+image_path: "/images/adventure.jpg"
 author: Tina May
 ---
 

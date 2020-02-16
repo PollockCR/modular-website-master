@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Third Blog Post
-meta-description:
-meta-keywords:
-image_path: /images/adventure.jpg
+date: 2019-01-03 00:00:00 Z
 categories:
-  - travel
-  - wine
-  - Dan's test category
+- travel
+- wine
+- Dan's test category
+layout: post
+meta-description: 
+meta-keywords: 
+image_path: "/images/adventure.jpg"
 author: Tina May
 ---
 
